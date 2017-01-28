@@ -3,7 +3,8 @@
 #include<iostream>
 using namespace std;
 int main()
-{ cout<<"Patterns using for loop\n";
+{ cout<<"Github sounds fun\n";
+	cout<<"Patterns using for loop\n";
 	int n=3;
 	
 
