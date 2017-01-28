@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ cout<<"Patterns using for loop\n";
 	int n=3;
 	
 
